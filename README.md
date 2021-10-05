@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @cardosojr02
+- 👀 I’m interested in learn HTML and CSS
+- 🌱 I’m currently learning  this both.
